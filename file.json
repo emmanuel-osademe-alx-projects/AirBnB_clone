@@ -1,0 +1,21 @@
+{
+	"User.f3885fa6-3571-41f9-bf35-6b9bdb244944": {
+		"id": "f3885fa6-3571-41f9-bf35-6b9bdb244944",
+		"created_at": "2022-08-16T12:13:11.406831",
+		"updated_at": "2022-08-16T12:13:11.406839",
+		"email": "hrh.osademe@gmail.com",
+		"__class__": "User"
+	},
+	"BaseModel.d06df188-4bc2-4968-a53d-7ad8effa5458": {
+		"id": "d06df188-4bc2-4968-a53d-7ad8effa5458",
+		"created_at": "2022-08-16T12:15:46.522236",
+		"updated_at": "2022-08-16T12:15:46.522244",
+		"__class__": "BaseModel"
+	},
+	"BaseModel.d7a372cc-5f45-4468-9ed5-384eaa299c2e": {
+		"id": "d7a372cc-5f45-4468-9ed5-384eaa299c2e",
+		"created_at": "2022-08-16T12:18:09.524398",
+		"updated_at": "2022-08-16T12:18:09.524405",
+		"__class__": "BaseModel"
+	}
+}
